@@ -32,7 +32,7 @@ tile_size = 50
 game_over = 0
 # Kijken of je in main menu bent of niet
 main_menu = True
-# We beginnen bij level 0
+# We beginnen bij level 1
 level = 1
 # Maximum levels
 max_levels = 7
